@@ -15,7 +15,7 @@ export default function SummarySection(props) {
 
   return (
     <section className="main__summary">
-      <h3>NEW GREENLEAF 2018</h3>
+      <h2>Your cart</h2>
       {summary}
       <Total selected={selected} />
     </section>

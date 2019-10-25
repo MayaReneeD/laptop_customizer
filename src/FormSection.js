@@ -15,7 +15,7 @@ export default function FormSection(props) {
 
   return (
     <section className="main__form">
-      <h3>TECH SPECS AND CUSTOMIZATION</h3>
+      <h2>Customize your Laptop</h2>
       {features}
     </section>
   )
